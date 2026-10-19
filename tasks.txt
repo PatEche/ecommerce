@@ -1,0 +1,8 @@
+Cosas para ir agregando!
+
+- Dockerizar
+- Excepciones personalizadas (@GlobalException)
+- Logging y SLF4J
+- implementar transaccional (@transaccional)
+- swagger documentar
+- Observabilidad y monitoreo (OpenTelemetry Collector(Loki, Tempo, Grafana))
