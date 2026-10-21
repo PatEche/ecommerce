@@ -15,20 +15,30 @@
 
 **Compilar desde la raíz del proyecto ejecutar:**
 
-> mvn clean install 
-> 
+```bash
+mvn clean install
+```
 **o con wrapper (Linux/macOS):**
-
-> ./mvnw clean install 
-> 
+```bash
+./mvnw clean install
+``` 
+ 
 **en Windows:**
-
-> mvnw.cmd clean install
-> 
+```bash
+mvnw.cmd clean install
+```
 **Ejecutar con Docker Compose Para levantar todos los servicios en contenedores:**
-
-> docker-compose up --build
->
+```bash
+docker-compose up --build
+```
 **Para detener:**
+```bash
+docker-compose down
+```
 
->docker-compose down
+
+
+
+
+
+
